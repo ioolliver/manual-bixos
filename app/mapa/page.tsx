@@ -50,7 +50,7 @@ export default function Page() {
                 <p>Este é um mapa interativo para você se guiar pelo campus da ETESP. Ao clicar em algum lugar rosa, uma janela será aberta mostrando mais informações sobre este local. Ande pelo mapa a vontade.</p>
             </ContentSection>
             <div id="map-box">
-                <img style={{width: defaultZoom + "%"}} src="/mapa.png" alt="Mapa da ETESP" useMap="#etespmap" />
+                <img style={{width: defaultZoom + "%", padding: "0"}} src="/mapa.png" alt="Mapa da ETESP" useMap="#etespmap" />
                 <map name="etespmap">
                     { 
                     mapLocations.map(l => 
