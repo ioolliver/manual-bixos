@@ -6,7 +6,6 @@ import TitleSection from "@/components/TitleSection";
 
 import backgroundIMG from "@/assets/background-cafe.jpg"
 import cafe1IMG from "@/assets/cafe1.jpg"
-import cafe2IMG from "@/assets/cafe2.jpg"
 
 import SectionButton from "@/components/SectionButton";
 import Image from "next/image";
@@ -26,9 +25,6 @@ export default function Page() {
             </ContentSection>
             <ContentSection animationType="from-left-delay">
                 <p>O objetivo é que vocês se familiarizem com os seus vermes, veteranos e a galera de outros cursos. Quem sabe você não acha um crush na praceta para enviar um correio elegante?!</p>
-            </ContentSection>
-            <ContentSection animationType="fade">
-                <Image src={cafe2IMG} alt="Café dos bixos 2023" />
             </ContentSection>
             <ContentSection center animationType="fade">
                 <SectionButton to="/sarau" />
