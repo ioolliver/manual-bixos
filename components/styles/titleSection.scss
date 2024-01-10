@@ -1,0 +1,16 @@
+.titleSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        position: absolute;
+        color: #fff;
+        text-shadow: 2px 2px 2px #000;
+    }
+    img {
+        padding: 0;
+        width: 100vw;
+        max-width: 700px;
+        height: auto;
+    }
+}

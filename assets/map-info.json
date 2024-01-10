@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "🏢 Maffei",
+        "description": "Nosso ‘Malfeito’, vocês entenderão o porquê no seu ano de verme. O prédio onde podemos ver as infiltrações vão fazer do verão um verdadeiro inferno. Boa aventura aos vermes desse ano, aproveitem para deitar e fofocar na mesa de baixo da escada e não esqueça seu celular no banheiro porque esse prédio é dividido com a FATEC.",
+        "coords": "915,1240,1480,1610"
+    },
+    {
+        "id": 2,
+        "name": "🍴 Refeitório",
+        "description": "No refeitório teremos nossa alimentação todos os dias 100% gratuita (obrigado etespianos de 2016). No 1º andar se encontra o Magalhães, uma opção paga para quem não gosta da comida da escola ou quer comer algum lanche (para lanches, considere o CA!). No 2º andar temos o almoço gratuito, mas lembre-se: para subir ao refeitório devemos esperar na fila. Veteranos tem um passe-livre para furar fila, ao contrário de bixos(!) e vermes. No refeitório também há microondas disponíveis para quem prefere trazer marmita.",
+        "coords": "1480,1240,1740,1610"
+    },
+    {
+        "id": 3,
+        "name": "🏢 Torres",
+        "description": "Ari Torres, prédio principal e mais lindo, sua primeira casa, bixo. Ali temos a sala dos professores, coordenação (sim, Márcia X fica no Torres) e a secretaria. Aproveite seu ano de glória no Torres, mas não tema, você estará sempre retornando já que lá está presente os laboratórios específicos de cada curso e salas multimídia.",
+        "coords": "915,1700,1480,2070"
+    },
+    {
+        "id": 4,
+        "name": "🏢 CGI",
+        "description": "O CGI é o prédio administrativo onde fica a sala do diretor e a APM (Associação de pais e mestres). É importante saber onde encontrar a APM já que eles são muito importantes para nós. Valorizem a APM!",
+        "coords": "1560,1700,1740,2070"
+    },
+    {
+        "id": 5,
+        "name": "🌳 Praceta",
+        "description": "Talvez você nunca tenha ouvido falar na palavra praceta, mas acredite, vai entrar muito rápido no seu vocabulário. Nossa querida praceta! O lugar favorito da maioria dos etespianos, onde podemos encontrar o pessoal conversando nos intervalos entre as aulas, alguns dorminhocos, alguns tomando sol e outros matando aula. Esse é realmente um espaço para descontrair, dar aquela respirada olhando para as árvores ou tirar uma foto tipicamente etespiana do nosso campus lindo. Aproveite muito para pracetar durante sua jornada na ETESP, é um espaço único onde muitas amizades são formadas, onde podemos socializar com todos os cursos e admirar nossos amores platônicos de longe. Dentro da praceta temos uma tradição levemente esquecida da arvore do terceirão, onde só os terceiros podem sentar, queremos voltar com essa tradição, então fiquem espertos.",
+        "coords": "1070,2170,1480,2580"
+    },
+    {
+        "id": 6,
+        "name": "🏢 Hipólito",
+        "description": "Sua última casa na ETESP, lar dos veteranos, onde só os mais calejados chegam. Digamos que é o prédio mais excluido mas sem dúvidas com os melhores estudantes. Tente não frequentar na parte da tarde, dica de veterano.",
+        "coords": "1110,3120,1450,3350" 
+    },
+    {
+        "id": 7,
+        "name": "🧃 CA",
+        "description": "No primeiro momento você vai se assustar com o ambiente e o aroma, mas depois você vai agradecer por ter conhecido. No CA (Centro Acadêmico) podemos encontrar uma papelaria, lan house e quatro cantinas acessíveis. Tem açaí, sorvete, tapioca, lanche prensado, crepe, salgado, café, chá, doce... Você pede um lanche e recebe um banquete. É importante lembrar que é um ambiente da FATEC e que estamos lá de intrusos. Aquele ambiente não pertence a ETESP, então o que você fizer lá é sua responsabilidade, evite andar com fatecanos ou ficar de bobeira nos sofás, peça para um veterano de confiança te orientar melhor ate você se acostumar",
+        "coords": "2000,3190,2215,3350"
+    },
+    {
+        "id": 8,
+        "name": "⚽ Quadra",
+        "description": "Provavelmente a parte favorita de muitos de vocês, é aqui que teremos as aulas de educação física, algumas apresentações de vez em quando e o melhor evento de todos, o INTERCLASSES! É um privilégio ter uma quadra tão grande e equipada como a nossa, uma quadra pequena e uma grande, vestiários, arquibancadas e muitos equipamentos. Nada disso é de graça, então cuidem. Devemos lembrar que a quadra pertence a FATEC e é emprestada a nós na parte da manhã (das 7:30 até 12:50) para as aulas, então evitem circular por lá fora do horário de aula, já cansamos de ouvir bronca da Márcia X sobre isso.",
+        "coords": "1975,2300,2720,2770"
+    },
+    {
+        "id": 9,
+        "name": "🚇 Metrô Tiradentes",
+        "description": "Aqui é o metrô Tiradentes, estação onde você vai descer para chegar na ETESP. Ele fica na linha azul, logo após a Luz (sentido Tucuruvi).",
+        "coords": "1825,4080,2830,5050"
+    },
+    {
+        "id": 10,
+        "name": "✍️ Sala de estudos",
+        "description": "A sala de estudos é uma conquista de 2023, então é muito recente para todos os alunos mas já não sabemos como era a vida sem ela. Em semana de entregas de trabalho aquele lugar fica uma loucura, mas nos dias normais é o melhor lugar para sentar tranquilo e fazer seus trabalhos e principalmente os inúmeros trabalhos em grupo que vocês farão. Evitem bagunça nesse lugar, afinal, é um espaço de estudos. É probido jogo de cartas, tabuleiro, competições de jogos on-line, assistir felca e drama total e, por favor, não dancem just dance. (Sim, já aconteceu tudo isso, obrigado EDI2021 por ensinar o que não fazer).",
+        "coords": "1450,3120,1700,3350" 
+    }
+]

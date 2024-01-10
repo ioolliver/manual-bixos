@@ -1,0 +1,15 @@
+#navbar {
+    min-width: 16rem;
+    width: 100%;
+    padding: 2rem 1rem 1rem 1rem;
+    justify-content: space-between;
+    display: flex;
+    a {
+        color: #1a1a1a;
+        text-decoration: none;
+    }
+
+    &.dark a {
+        color: #fff;
+    }
+}
