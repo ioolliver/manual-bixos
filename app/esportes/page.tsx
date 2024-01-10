@@ -35,7 +35,7 @@ export default function Page() {
             </ContentSection>
             <ContentSection animationType="from-left-delay">
                 <p>Anos atrás um amigo peculiar voava sobre a praceta etespiana: o Ipecuati, o pica-pau amarelo. Essa espécie rara marcou os etespianos e foi escolhida para representar a imagem da nossa escola. Não se sabe por onde eles voam hoje, mas temos certeza que sua raridade passou para nossos atletas, que fazem mágica dentro de quadra.</p>
-                <p style={{textAlign: "center", fontSize: "0.9rem"}}><i>Eu já sei o seu segredo: é do pica-pau marombado que vocês têm medo!"</i></p>
+                <p style={{textAlign: "center", fontSize: "0.9rem"}}><i>"Eu já sei o seu segredo: é do pica-pau marombado que vocês têm medo!"</i></p>
             </ContentSection>
             <ContentSection animationType="from-left">
                 <h1>🏆 TECSESP</h1> 
