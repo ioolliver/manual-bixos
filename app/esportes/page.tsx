@@ -108,7 +108,7 @@ export default function Page() {
                 <p>Siga o Instagram da atlética etespiana para ficar por dentro de eventos, estatísticas e qualquer coisa envolvendo esportes da Escola.</p>
             </ContentSection>
             <ContentSection center animationType="fade">
-                <SectionButton to="https://www.instagram.com/ecoetespiano/" type="instagram" />
+                <SectionButton to="https://www.instagram.com/atletica.etesp/" type="instagram" />
                 <SectionButton to="/luta" />
             </ContentSection>
         </div>

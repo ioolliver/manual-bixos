@@ -16,7 +16,7 @@ export default function Home() {
           height={500}
           />
         </ContentSection>
-        <ContentSection animationType='from-left'>
+        <ContentSection animationType='from-top'>
           <h1>📖 Manual dos Bixos 2024</h1>
         </ContentSection>
         <ContentSection animationType='from-left-delay'>

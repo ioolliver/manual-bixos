@@ -23,7 +23,7 @@ export default function Page() {
                 <h1>🌳 Meio-ambiente</h1>
             </ContentSection>
             <ContentSection animationType="from-left-delay">
-                <p>Escutou alguma cantoria na escola? Uma salva de palmas aleatória? Ou tem algum grupo de pessoas dançando no meio da praceta? De boas vindas a MA!</p>
+                <p>Escutou alguma cantoria na escola? Uma salva de palmas aleatória? Ou tem algum grupo de pessoas dançando no meio da praceta? Dê boas vindas a MA!</p>
             </ContentSection>
             <ContentSection animationType="from-left">
                 <p>Aqui começa sua jornada não somente pela fama de abraçador de árvores e pela obrigatoriedade de salvar qualquer inseto, mas também por uma quantidade absurda de relatórios, crises em plena luz do dia e muitas (MUITAS!) amostras de solo e água. Não somente isso, mas você ingressa agora no curso mais unido dessa escola, e saiba que não importa o que aconteça, seu patriotismo por MA só vai aumentar.</p>

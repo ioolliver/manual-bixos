@@ -79,7 +79,7 @@ export default function Page() {
                 <Image src={coletivos4IMG} alt="Café dos bixos 2023" />
             </ContentSection>
             <ContentSection center animationType="fade">
-                <SectionButton to="https://www.instagram.com/abs.etesp" type="instagram" />
+                <SectionButton to="https://chat.whatsapp.com/FBxiNy6qbPtHx9irNjai6k" type="whatsapp" />
             </ContentSection>
             <ContentSection center animationType="fade">
                 <SectionButton to="/sexta" />

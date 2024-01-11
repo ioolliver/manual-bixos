@@ -4,7 +4,7 @@ import { ReactNode } from "react"
 
 interface IContentSection {
     children: ReactNode
-    animationType: "from-left" | "fade" | "from-left-delay" | "rotate-delay",
+    animationType: "from-left" | "fade" | "from-left-delay" | "rotate-delay" | "from-top",
     center? : boolean
 }
 
@@ -18,6 +18,9 @@ export default function ContentSection({ children, animationType, center } : ICo
 
     if(animationType == "from-left") {
         origin = "left"
+        distance = "400px"
+    }else if(animationType == "from-top") {
+        origin = "top"
         distance = "400px"
     }else if(animationType == "from-left-delay") {
         origin = "left"

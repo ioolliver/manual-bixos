@@ -30,6 +30,9 @@ export default function Page() {
             <ContentSection animationType="fade">
                 <Image src={fdb2IMG} alt="Festa dos bixos 2023" />
             </ContentSection>
+            <ContentSection center animationType="fade">
+                <SectionButton to="https://www.instagram.com/fdb.2k24/" type="instagram" />
+            </ContentSection>
             <ContentSection animationType="from-left-delay">
                 <p>A festa sempre dura até tarde então aconselho dormir na casa de um amiga/o que mora perto para poder curtir até o mais tarde possível (ou até de manhã). O Instagram da FDB posta todas as informações lá, então sigam.</p>
             </ContentSection>
