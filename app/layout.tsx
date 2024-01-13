@@ -22,7 +22,6 @@ export default function RootLayout({
       <body className={font.className}>
           <div className="global-app-box">
             {children}
-            <Analytics />
             <SpeedInsights />
           </div>
       </body>
