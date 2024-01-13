@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import { Poppins } from 'next/font/google'
 import './globals.scss'
-import { Analytics } from '@vercel/analytics/react'
 import { SpeedInsights } from '@vercel/speed-insights/next'
 
 const font = Poppins({ weight: ["500", "800", "900"], subsets: ['latin'] })
