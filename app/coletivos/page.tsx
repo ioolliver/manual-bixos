@@ -66,7 +66,7 @@ export default function Page() {
                 <Image src={coletivos3IMG} alt="Café dos bixos 2023" />
             </ContentSection>
             <ContentSection center animationType="fade">
-                <SectionButton to="https://chat.whatsapp.com/LYeb0emhAcCCTUdIXAqRmz" type="whatsapp" />
+                <SectionButton to="https://chat.whatsapp.com/E8Tct9yNtvnKGRAch3B5hi" type="whatsapp" />
             </ContentSection>
             <ContentSection animationType="from-left">
                 <h1>🙏 ABS</h1>
